@@ -6,7 +6,7 @@
     <description>Recent content in Phenotyping Lymphoma with an Artificial Intelligence toolbox  on PLAIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 11:00:59 -0400</lastBuildDate>
     
 	<atom:link href="https://wandergarten.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Mission Statement: Patients&#39; Data Privacy</title>
       <link>https://wandergarten.github.io/post/privacy-mission-statement/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/post/privacy-mission-statement/</guid>
       <description>Patient&#39;s data safety and security rights are the highest priority for us. We have built an extensive pre-processing procedure, by which we try to automatically (pseudo)anonymize the data you as the patient&#39;s MD are handing over to us. Note, that we do NOT want to own private data! We encourage you to de-individualize, thus anonymize, your patient&#39;s data yourself before transmitting them to us.
@@ -24,10 +24,39 @@ Lorem ipsum comes and goes.</description>
     <item>
       <title>Presenting PLAIT to International Cancer Analytics Conference </title>
       <link>https://wandergarten.github.io/post/presenting-plait/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/post/presenting-plait/</guid>
       <description>Lorem ipsum comes and goes.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World</title>
+      <link>https://wandergarten.github.io/post/hello-world/</link>
+      <pubDate>Tue, 14 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/post/hello-world/</guid>
+      <description>Willkommen bei PLAIT! Diese Blogposts sollen Informationen rund um unseren Service darstellen und klären.
+Bei Fragen und/oder Problemen, kontakieren Sie uns doch einfach über das Kontaktformular oder sehen Sie in unserer Dokumentation nach!
+Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://wandergarten.github.io/documentation/faq/</link>
+      <pubDate>Mon, 13 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/documentation/faq/</guid>
+      <description>Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://wandergarten.github.io/documentation/quickstart/</link>
+      <pubDate>Sun, 12 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/documentation/quickstart/</guid>
+      <description>Lorem ipsum goes here.</description>
     </item>
     
     <item>
@@ -60,40 +89,11 @@ Lorem ipsum comes and goes.</description>
     </item>
     
     <item>
-      <title>Frequently Asked Questions</title>
-      <link>https://wandergarten.github.io/documentation/faq/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/documentation/faq/</guid>
-      <description>Lorem ipsum goes here.</description>
-    </item>
-    
-    <item>
-      <title>Hello, World</title>
-      <link>https://wandergarten.github.io/post/hello-world/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/post/hello-world/</guid>
-      <description>Willkommen bei PLAIT! Diese Blogposts sollen Informationen rund um unseren Service darstellen und klären.
-Bei Fragen und/oder Problemen, kontakieren Sie uns doch einfach über das Kontaktformular oder sehen Sie in unserer Dokumentation nach!
-Lorem ipsum goes here.</description>
-    </item>
-    
-    <item>
       <title>Patient Treatment Management based on PLAIT</title>
       <link>https://wandergarten.github.io/documentation/patient-treatment-management-based-on-plait/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/documentation/patient-treatment-management-based-on-plait/</guid>
-      <description>Lorem ipsum goes here.</description>
-    </item>
-    
-    <item>
-      <title>Quick Start</title>
-      <link>https://wandergarten.github.io/documentation/quickstart/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/documentation/quickstart/</guid>
       <description>Lorem ipsum goes here.</description>
     </item>
     
@@ -105,6 +105,15 @@ Lorem ipsum goes here.</description>
       <guid>https://wandergarten.github.io/contact/</guid>
       <description>You have questions or hints for our service?
 Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://wandergarten.github.io/privacy-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wandergarten.github.io/privacy-statement/</guid>
+      <description>This is our privacy statement:</description>
     </item>
     
   </channel>

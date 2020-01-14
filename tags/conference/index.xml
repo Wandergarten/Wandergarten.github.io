@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference&#34; on PLAIT</title>
+    <title>Conference on PLAIT</title>
     <link>https://wandergarten.github.io/tags/conference/</link>
-    <description>Recent content in Conference&#34; on PLAIT</description>
+    <description>Recent content in Conference on PLAIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 11:00:59 -0400</lastBuildDate>
     
 	<atom:link href="https://wandergarten.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Presenting PLAIT to International Cancer Analytics Conference </title>
       <link>https://wandergarten.github.io/post/presenting-plait/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/post/presenting-plait/</guid>
       <description>Lorem ipsum comes and goes.</description>

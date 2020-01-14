@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://wandergarten.github.io/documentation/faq/</link>
+      <pubDate>Mon, 13 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/documentation/faq/</guid>
+      <description>Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://wandergarten.github.io/documentation/quickstart/</link>
+      <pubDate>Sun, 12 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/documentation/quickstart/</guid>
+      <description>Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
       <title>Data Analytics</title>
       <link>https://wandergarten.github.io/documentation/data-analytics/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
@@ -41,29 +59,11 @@
     </item>
     
     <item>
-      <title>Frequently Asked Questions</title>
-      <link>https://wandergarten.github.io/documentation/faq/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/documentation/faq/</guid>
-      <description>Lorem ipsum goes here.</description>
-    </item>
-    
-    <item>
       <title>Patient Treatment Management based on PLAIT</title>
       <link>https://wandergarten.github.io/documentation/patient-treatment-management-based-on-plait/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/documentation/patient-treatment-management-based-on-plait/</guid>
-      <description>Lorem ipsum goes here.</description>
-    </item>
-    
-    <item>
-      <title>Quick Start</title>
-      <link>https://wandergarten.github.io/documentation/quickstart/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/documentation/quickstart/</guid>
       <description>Lorem ipsum goes here.</description>
     </item>
     

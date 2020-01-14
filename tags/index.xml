@@ -6,7 +6,7 @@
     <description>Recent content in Tags on PLAIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 11:00:59 -0400</lastBuildDate>
     
 	<atom:link href="https://wandergarten.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Anonymity</title>
       <link>https://wandergarten.github.io/tags/anonymity/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/anonymity/</guid>
       <description></description>
@@ -23,16 +23,16 @@
     <item>
       <title>CCPA</title>
       <link>https://wandergarten.github.io/tags/ccpa/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/ccpa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Conference&#34;</title>
+      <title>Conference</title>
       <link>https://wandergarten.github.io/tags/conference/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/conference/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Data Security</title>
       <link>https://wandergarten.github.io/tags/data-security/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/data-security/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>DSGVO</title>
       <link>https://wandergarten.github.io/tags/dsgvo/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/dsgvo/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Flow Cytometry Data Analysis</title>
       <link>https://wandergarten.github.io/tags/flow-cytometry-data-analysis/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/flow-cytometry-data-analysis/</guid>
       <description></description>
@@ -68,16 +68,16 @@
     <item>
       <title>GDPR</title>
       <link>https://wandergarten.github.io/tags/gdpr/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/gdpr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy&#34;</title>
+      <title>Privacy</title>
       <link>https://wandergarten.github.io/tags/privacy/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/privacy/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Second Post</title>
       <link>https://wandergarten.github.io/tags/second-post/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/second-post/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Third Post</title>
       <link>https://wandergarten.github.io/tags/third-post/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/third-post/</guid>
       <description></description>
@@ -104,9 +104,54 @@
     <item>
       <title>Ultsch</title>
       <link>https://wandergarten.github.io/tags/ultsch/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 14 Jan 2020 11:00:59 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/ultsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://wandergarten.github.io/tags/first-post/</link>
+      <pubDate>Tue, 14 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://wandergarten.github.io/tags/hello-world/</link>
+      <pubDate>Tue, 14 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To</title>
+      <link>https://wandergarten.github.io/tags/how-to/</link>
+      <pubDate>Tue, 14 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/tags/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://wandergarten.github.io/tags/faq/</link>
+      <pubDate>Mon, 13 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/tags/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://wandergarten.github.io/tags/quick-start/</link>
+      <pubDate>Sun, 12 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wandergarten.github.io/tags/quick-start/</guid>
       <description></description>
     </item>
     
@@ -138,15 +183,6 @@
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>https://wandergarten.github.io/tags/faq/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/tags/faq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>First Documentation Page</title>
       <link>https://wandergarten.github.io/tags/first-documentation-page/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
@@ -156,47 +192,11 @@
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>https://wandergarten.github.io/tags/first-post/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/tags/first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://wandergarten.github.io/tags/hello-world/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/tags/hello-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How To</title>
-      <link>https://wandergarten.github.io/tags/how-to/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/tags/how-to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Patient Treatment Management based on PLAIT</title>
       <link>https://wandergarten.github.io/tags/patient-treatment-management-based-on-plait/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://wandergarten.github.io/tags/patient-treatment-management-based-on-plait/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quick Start</title>
-      <link>https://wandergarten.github.io/tags/quick-start/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://wandergarten.github.io/tags/quick-start/</guid>
       <description></description>
     </item>
     
