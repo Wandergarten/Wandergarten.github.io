@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flow Cytometry Data Analysis on PLAIT</title>
+    <link>https://example.com/tags/flow-cytometry-data-analysis/</link>
+    <description>Recent content in Flow Cytometry Data Analysis on PLAIT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/flow-cytometry-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mission Statement: Patients&#39; Data Privacy</title>
+      <link>https://example.com/post/privacy-mission-statement/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/privacy-mission-statement/</guid>
+      <description>Patient&#39;s data safety and security rights are the highest priority for us. We have built an extensive pre-processing procedure, by which we try to automatically (pseudo)anonymize the data you as the patient&#39;s MD are handing over to us. Note, that we do NOT want to own private data! We encourage you to de-individualize, thus anonymize, your patient&#39;s data yourself before transmitting them to us.
+Lorem ipsum comes and goes.</description>
+    </item>
+    
+    <item>
+      <title>Presenting PLAIT to International Cancer Analytics Conference </title>
+      <link>https://example.com/post/presenting-plait/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/presenting-plait/</guid>
+      <description>Lorem ipsum comes and goes.</description>
+    </item>
+    
+    <item>
+      <title>Data Analytics</title>
+      <link>https://example.com/documentation/data-analytics/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/documentation/data-analytics/</guid>
+      <description>Sub-pages:
+ AI Statistical Basics  Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Executive Summary</title>
+      <link>https://example.com/documentation/executive-summary/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/documentation/executive-summary/</guid>
+      <description>Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Exemplary Use Case Presentation</title>
+      <link>https://example.com/documentation/exemplary-use-case-presentation/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/documentation/exemplary-use-case-presentation/</guid>
+      <description>Subpages:
+ Detection of LHD-1 type cancer Evaluating PLAIT on patient&#39;s treatment process  Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://example.com/documentation/faq/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/documentation/faq/</guid>
+      <description>Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World</title>
+      <link>https://example.com/post/hello-world/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/hello-world/</guid>
+      <description>Willkommen bei PLAIT! Diese Blogposts sollen Informationen rund um unseren Service darstellen und klären.
+Bei Fragen und/oder Problemen, kontakieren Sie uns doch einfach über das Kontaktformular oder sehen Sie in unserer Dokumentation nach!
+Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Patient Treatment Management based on PLAIT</title>
+      <link>https://example.com/documentation/patient-treatment-management-based-on-plait/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/documentation/patient-treatment-management-based-on-plait/</guid>
+      <description>Lorem ipsum goes here.</description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://example.com/documentation/quickstart/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/documentation/quickstart/</guid>
+      <description>Lorem ipsum goes here.</description>
+    </item>
+    
+  </channel>
+</rss>
