@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exemplary Use Case Presentation on PLAIT</title>
-    <link>https://example.com/tags/exemplary-use-case-presentation/</link>
+    <link>https://wandergarten.github.io/tags/exemplary-use-case-presentation/</link>
     <description>Recent content in Exemplary Use Case Presentation on PLAIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/exemplary-use-case-presentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wandergarten.github.io/tags/exemplary-use-case-presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exemplary Use Case Presentation</title>
-      <link>https://example.com/documentation/exemplary-use-case-presentation/</link>
+      <link>https://wandergarten.github.io/documentation/exemplary-use-case-presentation/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/documentation/exemplary-use-case-presentation/</guid>
+      <guid>https://wandergarten.github.io/documentation/exemplary-use-case-presentation/</guid>
       <description>Subpages:
  Detection of LHD-1 type cancer Evaluating PLAIT on patient&#39;s treatment process  Lorem ipsum goes here.</description>
     </item>

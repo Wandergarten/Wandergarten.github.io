@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How To on PLAIT</title>
-    <link>https://example.com/tags/how-to/</link>
+    <link>https://wandergarten.github.io/tags/how-to/</link>
     <description>Recent content in How To on PLAIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wandergarten.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Analytics</title>
-      <link>https://example.com/documentation/data-analytics/</link>
+      <link>https://wandergarten.github.io/documentation/data-analytics/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/documentation/data-analytics/</guid>
+      <guid>https://wandergarten.github.io/documentation/data-analytics/</guid>
       <description>Sub-pages:
  AI Statistical Basics  Lorem ipsum goes here.</description>
     </item>
     
     <item>
       <title>Executive Summary</title>
-      <link>https://example.com/documentation/executive-summary/</link>
+      <link>https://wandergarten.github.io/documentation/executive-summary/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/documentation/executive-summary/</guid>
+      <guid>https://wandergarten.github.io/documentation/executive-summary/</guid>
       <description>Lorem ipsum goes here.</description>
     </item>
     
     <item>
       <title>Exemplary Use Case Presentation</title>
-      <link>https://example.com/documentation/exemplary-use-case-presentation/</link>
+      <link>https://wandergarten.github.io/documentation/exemplary-use-case-presentation/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/documentation/exemplary-use-case-presentation/</guid>
+      <guid>https://wandergarten.github.io/documentation/exemplary-use-case-presentation/</guid>
       <description>Subpages:
  Detection of LHD-1 type cancer Evaluating PLAIT on patient&#39;s treatment process  Lorem ipsum goes here.</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions</title>
-      <link>https://example.com/documentation/faq/</link>
+      <link>https://wandergarten.github.io/documentation/faq/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/documentation/faq/</guid>
+      <guid>https://wandergarten.github.io/documentation/faq/</guid>
       <description>Lorem ipsum goes here.</description>
     </item>
     
     <item>
       <title>Hello, World</title>
-      <link>https://example.com/post/hello-world/</link>
+      <link>https://wandergarten.github.io/post/hello-world/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/hello-world/</guid>
+      <guid>https://wandergarten.github.io/post/hello-world/</guid>
       <description>Willkommen bei PLAIT! Diese Blogposts sollen Informationen rund um unseren Service darstellen und klären.
 Bei Fragen und/oder Problemen, kontakieren Sie uns doch einfach über das Kontaktformular oder sehen Sie in unserer Dokumentation nach!
 Lorem ipsum goes here.</description>
@@ -62,19 +62,19 @@ Lorem ipsum goes here.</description>
     
     <item>
       <title>Patient Treatment Management based on PLAIT</title>
-      <link>https://example.com/documentation/patient-treatment-management-based-on-plait/</link>
+      <link>https://wandergarten.github.io/documentation/patient-treatment-management-based-on-plait/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/documentation/patient-treatment-management-based-on-plait/</guid>
+      <guid>https://wandergarten.github.io/documentation/patient-treatment-management-based-on-plait/</guid>
       <description>Lorem ipsum goes here.</description>
     </item>
     
     <item>
       <title>Quick Start</title>
-      <link>https://example.com/documentation/quickstart/</link>
+      <link>https://wandergarten.github.io/documentation/quickstart/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/documentation/quickstart/</guid>
+      <guid>https://wandergarten.github.io/documentation/quickstart/</guid>
       <description>Lorem ipsum goes here.</description>
     </item>
     
